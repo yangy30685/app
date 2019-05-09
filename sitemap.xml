@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>https://www.yangspot.com/index.html</loc> 
+    <image:image>
+       <image:loc>https://yangspot.com/images/banner.jgp</image:loc>
+       <image:caption>Snow</image:caption>
+    </image:image>
+      <image:image>
+       <image:loc>https://yangspot.com/images/pic01.jgp</image:loc>
+       <image:caption>NFL</image:caption>
+    </image:image>
+      <image:image>
+       <image:loc>https://yangspot.com/images/pic02.jgp</image:loc>
+       <image:caption>yangspot</image:caption>
+    </image:image>
+
+     <image:image>
+       <image:loc>https://yangspot.com/images/pic03.jgp</image:loc>
+       <image:caption>yangspot</image:caption>
+    </image:image>
+  </url>
+
+` <url> 
+    <loc>https://www.yangspot.com/docs/aboutme.html</loc>
+  </url>
+  <url> 
+    <loc>https://www.yangspot.com/docs/contact.html</loc>
+  </url>
+  <url> 
+    <loc>https://www.yangspot.com/docs/downloads.html</loc> 
+  </url>
+  
+  <url>
+   <loc>https://www.yangspot.com/docs/lab.html</loc> 
+    <video:video>
+      <video:content_loc>
+        https://www.yangspot.com/media/video/v1.mp4
+      </video:content_loc>
+      <video:player_loc allow_embed="yes" autoplay="ap=1">
+        https://www.yangspot.com/media/video/v1.mp4
+      </video:player_loc>
+      <video:thumbnail_loc>
+        https://www.yangspot.com/media/video/v1.mp4
+      </video:thumbnail_loc>
+      <video:title>Fantastic Beasts 2</video:title>  
+    </video:video>
+  
+    <video:video>
+      <video:content_loc>
+        https://www.yangspot.com/media/video/v2.mp4
+      </video:content_loc>
+      <video:player_loc allow_embed="yes" autoplay="ap=1">
+        https://www.yangspot.com/media/video/v2.mp4
+      </video:player_loc>
+      <video:thumbnail_loc>
+        https://www.yangspot.com/media/video/v2.mp4
+      </video:thumbnail_loc>
+      <video:title>Impossible Mission</video:title>  
+    </video:video> 
+
+  </url>
+</urlset>
